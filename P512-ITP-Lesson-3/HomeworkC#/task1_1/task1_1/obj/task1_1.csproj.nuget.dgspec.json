@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\Homework C#\\task1_1\\task1_1\\task1_1.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_1\\task1_1\\task1_1\\task1_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\Homework C#\\task1_1\\task1_1\\task1_1.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_1\\task1_1\\task1_1\\task1_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\Homework C#\\task1_1\\task1_1\\task1_1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_1\\task1_1\\task1_1\\task1_1.csproj",
         "projectName": "task1_1",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\Homework C#\\task1_1\\task1_1\\task1_1.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_1\\task1_1\\task1_1\\task1_1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\Homework C#\\task1_1\\task1_1\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_1\\task1_1\\task1_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
