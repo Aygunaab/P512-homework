@@ -1,0 +1,12 @@
+program task1_3
+init N
+if N>=10000 &&N<=99999
+init result1
+calculate result1 as N*18/100
+init result2
+calculate result1*3/100
+return result1
+return result2
+else
+return Eded 5 reqemli deyil
+end program

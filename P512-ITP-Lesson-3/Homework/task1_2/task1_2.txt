@@ -1,0 +1,11 @@
+program task1_2
+init N
+init x
+set 1001 to x
+if N>=100 &&N<=999
+init result
+calculate result as N  divade to x 
+return result
+else
+return Eded 3 reqemli deyil
+end program

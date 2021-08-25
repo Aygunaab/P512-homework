@@ -1,0 +1,9 @@
+program task1_4
+init N
+if N>=100 &&N<=999
+init result
+calculate result as (N*10 +7)*7/100
+return result
+else
+return Eded 3 reqemli deyil
+end program

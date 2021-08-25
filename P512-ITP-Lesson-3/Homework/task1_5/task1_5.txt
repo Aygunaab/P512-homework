@@ -1,0 +1,12 @@
+program task1_5
+init Number
+if Number>=1000 &&Number<=9999
+init Number2
+calculate result1 as (Number+40000 )*100+44
+init result
+calculate Number2*44/100
+return Number2
+return result
+else
+return Eded 4 reqemli deyil
+end program
