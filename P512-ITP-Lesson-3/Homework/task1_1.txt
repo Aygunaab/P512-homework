@@ -1,0 +1,13 @@
+program task1_1
+init N
+init x
+set 70000 to x
+init y
+set 8 to y
+if N>=1000 &N<=9999
+init result
+calculate result as N add 70000 and divade result to 10 add 8
+return result
+else
+return Eded 4 reqemli deyil
+end program
