@@ -30,3 +30,19 @@ C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\Homewor
 C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\Homework C#\task1_1\task1_1\obj\Debug\net5.0\ref\task1_1.dll
 C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\Homework C#\task1_1\task1_1\obj\Debug\net5.0\task1_1.pdb
 C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\Homework C#\task1_1\task1_1\obj\Debug\net5.0\task1_1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\bin\Debug\net5.0\task1_1.exe
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\bin\Debug\net5.0\task1_1.deps.json
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\bin\Debug\net5.0\task1_1.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\bin\Debug\net5.0\task1_1.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\bin\Debug\net5.0\task1_1.dll
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\bin\Debug\net5.0\ref\task1_1.dll
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\bin\Debug\net5.0\task1_1.pdb
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\obj\Debug\net5.0\task1_1.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\obj\Debug\net5.0\task1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\obj\Debug\net5.0\task1_1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\obj\Debug\net5.0\task1_1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\obj\Debug\net5.0\task1_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\obj\Debug\net5.0\task1_1.dll
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\obj\Debug\net5.0\ref\task1_1.dll
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\obj\Debug\net5.0\task1_1.pdb
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_1\task1_1C#\task1_1\obj\Debug\net5.0\task1_1.genruntimeconfig.cache

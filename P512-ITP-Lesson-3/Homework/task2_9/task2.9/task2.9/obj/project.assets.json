@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task2_8\\task2.9\\task2.9\\task2.9.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task2_9\\task2.9\\task2.9\\task2.9.csproj",
       "projectName": "task2.9",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task2_8\\task2.9\\task2.9\\task2.9.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task2_9\\task2.9\\task2.9\\task2.9.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task2_8\\task2.9\\task2.9\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task2_9\\task2.9\\task2.9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

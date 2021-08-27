@@ -20,7 +20,7 @@ namespace Task2._1
                         n /= 10;
 
                     }
-                    Console.WriteLine("Sum of the digits of the said integer: " + sum);
+                    Console.WriteLine("Daxil etdiyiniz ededin cemi : " + sum);
                 }
                 else
                 {

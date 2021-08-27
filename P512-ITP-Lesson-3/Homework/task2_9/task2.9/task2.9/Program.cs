@@ -8,7 +8,7 @@ namespace task2._9
         {
             for (var i = 0; i < digit - 1; i++)
                 number /= 10;
-            return number % 10;
+                return number % 10;
         }
 
         static void Main(string[] args)
@@ -25,19 +25,14 @@ namespace task2._9
                 
                 if (number >= 100000000 && number<=999999999)
                 {
-                   
+                   int newNumber;
                     Console.WriteLine("Verilmis ededdin tek yerde duran reqemlerinden ainan eded ");
-                    Console.Write(GetDigit(number, 9));
-                    Console.Write(GetDigit(number, 7));
-                    Console.Write(GetDigit(number, 5));
-                    Console.Write(GetDigit(number, 3));
-                    Console.Write(GetDigit(number, 1));
-                    Console.WriteLine("-dir");
+                    newNumber=(((GetDigit(number,9)*10+GetDigit(number,7))*10+GetDigit(number,5))*10+GetDigit(number,3))*10+GetDigit(number,1
+                    );
+                    Console.WriteLine(newNumber);
 
 
                 }
-
-
 
                 else
                 {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_4\\task1_4\\task1_4\\task1_4.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_4\\task1_4C#\\task1_4\\task1_4.csproj",
       "projectName": "task1_4",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_4\\task1_4\\task1_4\\task1_4.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_4\\task1_4C#\\task1_4\\task1_4.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_4\\task1_4\\task1_4\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\P512-homework\\P512-ITP-Lesson-3\\Homework\\task1_4\\task1_4C#\\task1_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
