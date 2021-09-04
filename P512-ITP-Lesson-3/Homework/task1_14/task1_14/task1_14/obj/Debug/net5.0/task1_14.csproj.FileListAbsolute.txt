@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\obj\Debug\net5.0\task1_14.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\obj\Debug\net5.0\task1_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\obj\Debug\net5.0\task1_14.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\obj\Debug\net5.0\task1_14.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\obj\Debug\net5.0\task1_14.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\bin\Debug\net5.0\task1_14.exe
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\bin\Debug\net5.0\task1_14.deps.json
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\bin\Debug\net5.0\task1_14.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\bin\Debug\net5.0\task1_14.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\bin\Debug\net5.0\task1_14.dll
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\bin\Debug\net5.0\ref\task1_14.dll
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\bin\Debug\net5.0\task1_14.pdb
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\obj\Debug\net5.0\task1_14.dll
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\obj\Debug\net5.0\ref\task1_14.dll
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\obj\Debug\net5.0\task1_14.pdb
+C:\Users\Admin\OneDrive\Desktop\P512-homework\P512-ITP-Lesson-3\Homework\task1_14\task1_14\task1_14\obj\Debug\net5.0\task1_14.genruntimeconfig.cache
